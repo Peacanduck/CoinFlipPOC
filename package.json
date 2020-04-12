@@ -1,5 +1,5 @@
 {
-  "name": "flipproject",
+  "name": "CoinFlipPOC",
   "version": "1.0.0",
   "description": "betting dapp",
   "main": "truffle-config.js",
