@@ -1,0 +1,29 @@
+{
+  "name": "flipproject",
+  "version": "1.0.0",
+  "description": "betting dapp",
+  "main": "truffle-config.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/peacanduck/CoinFlipPOC.git"
+    },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum"
+  ],
+  "author": "peacanduck",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.0.33",
+    "truffle": "^5.1.19",
+    "truffle-assertions": "^0.9.2"
+  },
+  "devDependencies": {},
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
